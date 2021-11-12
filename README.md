@@ -28,8 +28,8 @@ The system will check every focus area and then turn it into a score. You can vi
 The figure below shows the overview of the system design.
 ![overview diagram](https://user-images.githubusercontent.com/94159290/141487002-9d2ebff9-3017-4d76-831b-9a0f0ff73adf.jpg)
 <br><br>
-### Prerequisites<br>!
-
+### Prerequisites
+<br>
 The modules required:
 - requests
 - sys
