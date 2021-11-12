@@ -15,18 +15,18 @@ The ISA measurement can be divided into 5 focus areas:
 - Internet Use
 - Information Handling<br>
 
-The system will check every focus area and then turn it into a score. You can view the [details of measurement and score calcurating](https://ieeexplore.ieee.org/document/9574351)
+The system will check every focus area and then turn it into a score. You can view the details of measurement and score calcurating [HERE](https://ieeexplore.ieee.org/document/9574351)
 | Focus Area | Sub Area |
 | ---------- | -------- |
 | Email Use | Phishing email test |
 | Password Management | Password strength <br>Locking computer|
 | SNS Use             | Personal information on SNS (FB only on this stage) |
 | Internet Use        | Network sniffing |
-| Information Hanling | Antivirus & Firewall |
+| Information Handling | Antivirus & Firewall |
 
+![overview diagram 2](https://user-images.githubusercontent.com/94159290/141487002-9d2ebff9-3017-4d76-831b-9a0f0ff73adf.jpg)
+### Prerequisites<br>!
 
-
-### Prerequisites<br>
 The modules required:
 - requests
 - sys
