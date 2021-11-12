@@ -1,5 +1,5 @@
 # ISAPRS<br>
-Information Security Awareness Profiling &amp; Recommendation System is a combination of profiling system and recommendation system that designed to:<br>
+Information Security Awareness Profiling &amp; Recommendation System (ISAPRS) is a combination of profiling system and recommendation system that designed to:<br>
 - Automate the ISA measurement process without a questionnaire to avoid Hawthorne effect, reduce the time comsume and man-power. 
 - Keep the result of ISA measurement up-to-date and reflect the vulnerability on ISA.
 - Profile the users according to their ISA result. (The profiles will be utilized for RS later.)
@@ -7,5 +7,17 @@ Information Security Awareness Profiling &amp; Recommendation System is a combin
 
 The
 
-### 
+### Prerequisites<br>
+The modules required:
+- requests
+- sys
+- os
+- threading
+- ast
+- pickle
+- tkinter
+- uuid <br>
+
+a
+
 
