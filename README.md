@@ -23,8 +23,10 @@ The system will check every focus area and then turn it into a score. You can vi
 | SNS Use             | Personal information on SNS (FB only on this stage) |
 | Internet Use        | Network sniffing |
 | Information Handling | Antivirus & Firewall |
-
-![overview diagram 2](https://user-images.githubusercontent.com/94159290/141487002-9d2ebff9-3017-4d76-831b-9a0f0ff73adf.jpg)
+<br><br>
+The figure below shows the overview of the system design.
+![overview diagram](https://user-images.githubusercontent.com/94159290/141487002-9d2ebff9-3017-4d76-831b-9a0f0ff73adf.jpg)
+<br><br>
 ### Prerequisites<br>!
 
 The modules required:
