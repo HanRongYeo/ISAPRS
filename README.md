@@ -15,7 +15,7 @@ The ISA measurement can be divided into 5 focus areas:
 - Internet Use
 - Information Handling<br>
 
-The system will check every focus area and then turn it into a score.
+The system will check every focus area and then turn it into a score. You can view the [details of measurement and score calcurating](https://ieeexplore.ieee.org/document/9574351)
 | Focus Area | Sub Area |
 | ---------- | -------- |
 | Email Use | Phishing email test |
