@@ -19,8 +19,7 @@ The system will check every focus area and then turn it into a score.
 | Focus Area | Sub Area |
 | ---------- | -------- |
 | Email Use | Phishing email test |
-| Password Management | Password strength |
-|                     | Locking computer |
+| Password Management | Password strength <br>Locking computer|
 | SNS Use             | Personal information on SNS (FB only on this stage) |
 | Internet Use        | Network sniffing |
 | Information Hanling | Antivirus & Firewall |
