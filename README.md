@@ -5,7 +5,7 @@ Information Security Awareness Profiling &amp; Recommendation System (ISAPRS) is
 - Profile the users according to their ISA result. (The profiles will be utilized for RS later.)
 - To provide suitable security recommendations to users to increase their willingness of to apply for security practice.<br>(Ambiguous and complicated security warnings may disuade people from applying security protection.)<br><br>
 
-The
+[Go to Real Cool Heading section](#-Prerequisites)
 
 ### Prerequisites<br>
 The modules required:
@@ -18,7 +18,7 @@ The modules required:
 - tkinter
 - uuid <br>
 
-There project includes:
+The project are breaks into parts and each part handle a process. The parts includes:
 - ISAPRS.py (main)
 - firewallCheck.py
 - local_user_password_check.py
