@@ -5,7 +5,9 @@ Information Security Awareness Profiling &amp; Recommendation System (ISAPRS) is
 - Profile the users according to their ISA result. (The profiles will be utilized for RS later.)
 - To provide suitable security recommendations to users to increase their willingness of to apply for security practice.<br>(Ambiguous and complicated security warnings may disuade people from applying security protection.)<br><br>
 
-[Go to Real Cool Heading section](#-Prerequisites)
+### Methodology<br>
+
+[Go to prerequisites](#-Prerequisites)
 
 ### Prerequisites<br>
 The modules required:
