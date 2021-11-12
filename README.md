@@ -7,7 +7,7 @@ Information Security Awareness Profiling &amp; Recommendation System (ISAPRS) is
 
 ### Methodology<br>
 
-This section will explain how the system work in detail. You can [Skip this section](#-Prerequisites) if you're not interested.<br>
+This section will explain how the system work in detail. You can [Skip this section](#prerequisites) if you're not interested.<br>
 The ISA measurement can be divided into several focus areas:
 - Email Use
 - Password Management
