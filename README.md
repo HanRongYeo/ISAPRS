@@ -1,7 +1,2 @@
 # ISAPRS
-Information Security Awareness Profiling &amp; Recommendation System
-
-asdf
-
-
-testing
+Information Security Awareness Profiling &amp; Recommendation System </br> hello
