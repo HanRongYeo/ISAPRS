@@ -38,7 +38,8 @@ The modules required:
 - ast
 - pickle
 - tkinter
-- uuid <br>
+- uuid
+<br>
 
 The project are breaks into parts and each part handle a process. The parts includes:
 - ISAPRS.py (main)
