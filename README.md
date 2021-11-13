@@ -83,7 +83,7 @@ The parts include:
    data["ids"]=0
    data["phishing"]=0-0-0-0-0
 ```
-5. Replace your own SQL process page (php)
+5. Replace your own php to run the SQL according to your purpose.
 ```
    respond = s.post("url to your database",data)
 ```
