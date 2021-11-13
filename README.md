@@ -30,8 +30,15 @@ The figure below shows the overview of the system design.
 <br><br>
 ### Prerequisites
 <br>
-The modules required: 
-- abc
+The required module:
+- requests
+- sys
+- os
+- threading
+- ast
+- pickle
+- tkinter
+- uuid
 <br>
 
 The project are breaks into parts and each part handle a process. The parts includes:
