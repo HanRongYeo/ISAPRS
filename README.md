@@ -73,7 +73,7 @@ The parts include:
 1. Before you run the program, make sure all of the scripts are put in the same folder.
 2. replace with your database api key
 ```
-api_key = "replace with your api key"
+   api_key = "replace with your api key"
 ``` 
 4. Change the content in 'data' dictionary to fit your database.
 ```
@@ -83,10 +83,12 @@ api_key = "replace with your api key"
    data["ids"]=0
    data["phishing"]=0-0-0-0-0
 ```
+5. Replace your own SQL process page (php)
+```
+   respond = s.post("url to your database",data)
+```
 
-
-
-Okay, let's start!
+After connected to your database, let's start!
 
 1. Run the ISAPRS.py
 
