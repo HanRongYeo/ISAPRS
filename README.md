@@ -70,8 +70,12 @@ The parts include:
 
 ### How to run the script
 #### Things to do before run
-1. ```api_key = "replace with your api key"``` replace with your database api key
-2. Change the content in 'data' dictionary to fit your database.
+1. Before you run the program, make sure all of the scripts are put in the same folder.
+2. replace with your database api key
+```
+api_key = "replace with your api key"
+``` 
+4. Change the content in 'data' dictionary to fit your database.
 ```
    data = {"id":hex(get_mac())}
    data["email"] = entryEmail.get()
@@ -81,7 +85,7 @@ The parts include:
 ```
 
 
-Before you run the program, make sure all of the scripts are put in the same folder.
+
 Okay, let's start!
 
 1. Run the ISAPRS.py
