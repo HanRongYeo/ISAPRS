@@ -40,7 +40,7 @@ The figure below shows the overview of the system design.
 3. Snort is required in order to perform tracffic sniffing. (Included in package)
 4. You need a database and you need to connect the program to your database.
 
-I'm using Python 3.6, and all the modules except **VerticalScrolledFrame** are built-in module. I'm not sure whether all of them are included in other version of Python. The VerticalScrolledFrame is included in this package so you don't need to download by yourself. It was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial) and you can also download the module from his Github page if you want.
+I'm using Python 3.6, and all the modules except **VerticalScrolledFrame** and **selenium** are built-in module. I'm not sure whether all of them are included in other version of Python. The VerticalScrolledFrame is included in this package so you don't need to download by yourself. It was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial) and you can also download the module from his Github page if you want.
 
 The required modules:
 - requests
@@ -53,6 +53,8 @@ The required modules:
 - uuid
 - webbrowser
 - [VerticalScrolledFrame](https://gist.github.com/novel-yet-trivial/3eddfce704db3082e38c84664fc1fdf8)
+- [selenium](https://pypi.org/project/selenium/)
+   - ```python -m pip install selenium```
 
 The project are breaks into parts and each part handle a process.
 All the parts above are include in the package. Just put all of them in a same folder.
