@@ -92,5 +92,10 @@ The parts include:
 After connected to your database, let's start!
 
 1. Run the ISAPRS.py
+   - Please allow to run in admin.
+   - The program will ask you to install WinPcap if it is not installed on your device.
+   - You need to run it again after WinPcap is installed.
+
+
 
 
