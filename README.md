@@ -38,7 +38,7 @@ The figure below shows the overview of the system design.
 1. This program can only works on **Windows OS** at this stage.
 2. WinPcap need to be installed in order to perform tracffic sniffing. (Included in package)
 3. Snort is required in order to perform tracffic sniffing. (Included in package)
-4. You need to connect to your database.
+4. You need a database and you need to connect the program to your database.
 
 I'm using Python 3.6, and all the modules except **VerticalScrolledFrame** are built-in module. I'm not sure whether all of them are included in other version of Python. The VerticalScrolledFrame is included in this package so you don't need to download by yourself. It was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial) and you can also download the module from his Github page if you want.
 
@@ -75,7 +75,7 @@ The parts include:
 ```
    api_key = "replace with your api key"
 ``` 
-4. Change the content in 'data' dictionary to fit your database.
+4. Change the content in 'data' dictionary to fit your database. For example, the 'user' table in your database does not need 'sns_acc" then you can deleted it, or change the format which can fit into your table.
 ```
    data = {"id":hex(get_mac())}
    data["email"] = entryEmail.get()
@@ -88,6 +88,7 @@ The parts include:
    respond = s.post("url to your database",data)
 ```
 
+### Ready to run
 After connected to your database, let's start!
 
 1. Run the ISAPRS.py
