@@ -1,4 +1,5 @@
 # ISAPRS
+### Introduction
 Information Security Awareness Profiling &amp; Recommendation System (ISAPRS) is a combination of profiling system and recommendation system that designed to:<br>
 - Automate the ISA measurement process without a questionnaire to avoid Hawthorne effect, reduce the time comsume and man-power. 
 - Keep the result of ISA measurement up-to-date and reflect the vulnerability on ISA.
@@ -31,7 +32,7 @@ The figure below shows the overview of the system design.
 
 ### Prerequisites
 I'm using Python 3.x, and all the modules except **VerticalScrolledFrame** are built-in module. I'm not sure whether all of them are included in other version of Python.
-The VerticalScrolledFrame was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial). The module is included in this package so you don't need to download by yourself. However, You can also download the module from his Github page if you want. [Go to VerticalScolledFrame](https://gist.github.com/novel-yet-trivial/3eddfce704db3082e38c84664fc1fdf8)
+The VerticalScrolledFrame was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial). The module is included in this package so you don't need to download by yourself. However, You can also download the module from his Github page if you want.
 
 The required modules:
 - requests
@@ -43,7 +44,7 @@ The required modules:
 - tkinter
 - uuid
 - webbrowser
-- VerticalScrolledFrame
+- [VerticalScrolledFrame](https://gist.github.com/novel-yet-trivial/3eddfce704db3082e38c84664fc1fdf8)
 
 The project are breaks into parts and each part handle a process.
 All the parts above are include in the package. Just put all of them in a same folder.
