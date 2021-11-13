@@ -30,7 +30,7 @@ The figure below shows the overview of the system design.
 <br><br>
 ### Prerequisites
 <br>
-The modules required:<br>
+The modules required: 
 - abc
 <br>
 
