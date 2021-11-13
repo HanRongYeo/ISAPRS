@@ -96,6 +96,12 @@ After connected to your database, let's start!
    - The program will ask you to install WinPcap if it is not installed on your device.
    - You need to run it again after WinPcap is installed.
    - ![winpcap](https://user-images.githubusercontent.com/94159290/141609223-aca68424-9732-426d-a478-1daee0e52ea7.JPG)
+2. Take a break. Let it do the things.
+   - ![step2](https://user-images.githubusercontent.com/94159290/141609349-7c480f2c-6523-41d1-8bdc-7cb1e4c5c258.JPG)
+3. The profile is recorded in database. Recommendation provided, rate them!
+   - ![RS result](https://user-images.githubusercontent.com/94159290/141609376-a366454c-9a1f-4966-ba1c-489b75bbc849.JPG)
+4. Just close the recommender after rating is given.
+
 
 
 
