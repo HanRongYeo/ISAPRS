@@ -69,6 +69,8 @@ The parts include:
 
 
 ### How to run the script
+#### Things to do before run
+
 Before you run the program, make sure all of the scripts are put in the same folder.
 Okay, let's start!
 
