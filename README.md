@@ -1,5 +1,6 @@
 # ISAPRS
 Teleport
+- [Methodology](#methodology)
 - [Prerequisites](#prerequisites)
 - [How to run](#how-to-run-the-script)
 ### Introduction
@@ -68,6 +69,9 @@ The parts include:
 
 
 ### How to run the script
+Before you run the program, make sure all of the scripts are put in the same folder.
+Okay, let's start!
 
+1. Run the ISAPRS.py
 
 
