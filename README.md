@@ -27,9 +27,13 @@ The system will check every focus area and then turn it into a score. You can vi
 <br><br>
 The figure below shows the overview of the system design.
 <!--![overview diagram](https://user-images.githubusercontent.com/94159290/141487002-9d2ebff9-3017-4d76-831b-9a0f0ff73adf.jpg)-->
-<br><br>
+
+
+
 ### Prerequisites
-<br>
+
+
+
 The required module:
 - requests
 - sys
@@ -39,7 +43,8 @@ The required module:
 - pickle
 - tkinter
 - uuid
-<br>
+
+
 
 The project are breaks into parts and each part handle a process. The parts includes:
 - ISAPRS.py (main)
