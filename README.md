@@ -30,7 +30,7 @@ The figure below shows the overview of the system design.
 <br><br>
 ### Prerequisites
 <br>
-The required module:<a>
+The required module:<i>
 - requests
 - sys
 - os
@@ -39,7 +39,7 @@ The required module:<a>
 - pickle
 - tkinter
 - uuid
-<a/><br>
+<i/><br>
 
 The project are breaks into parts and each part handle a process. The parts includes:
 - ISAPRS.py (main)
