@@ -70,6 +70,10 @@ The parts include:
 
 ### How to run the script
 #### Things to do before run
+1. 
+```
+api_key = "replace with your api key"
+```
 
 Before you run the program, make sure all of the scripts are put in the same folder.
 Okay, let's start!
