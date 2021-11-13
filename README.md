@@ -30,7 +30,8 @@ The figure below shows the overview of the system design.
 
 
 ### Prerequisites
-
+I'm using Python 3.x, and all the modules except **VerticalScrolledFrame** are built-in module. I'm not sure whether all of them are included in other version of Python.
+The VerticalScrolledFrame was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial). You can download the module from his Github page [HERE](https://gist.github.com/novel-yet-trivial/3eddfce704db3082e38c84664fc1fdf8)
 The required modules:
 - requests
 - sys
@@ -40,9 +41,12 @@ The required modules:
 - pickle
 - tkinter
 - uuid
+- webbrowser
+- VerticalScrolledFrame
 
-The project are breaks into parts and each part handle a process. All the parts above are include in the package. Just put all of them in a same folder.
-The parts includes:
+The project are breaks into parts and each part handle a process.
+All the parts above are include in the package. Just put all of them in a same folder.
+The parts include:
 - ISAPRS.py (main)
 - firewallCheck.py
 - local_user_password_check.py
