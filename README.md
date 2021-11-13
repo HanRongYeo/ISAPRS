@@ -31,7 +31,7 @@ The figure below shows the overview of the system design.
 
 ### Prerequisites
 I'm using Python 3.x, and all the modules except **VerticalScrolledFrame** are built-in module. I'm not sure whether all of them are included in other version of Python.
-The VerticalScrolledFrame was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial). You can download the module from his Github page [HERE](https://gist.github.com/novel-yet-trivial/3eddfce704db3082e38c84664fc1fdf8)
+The VerticalScrolledFrame was created by [novel-yet-trivial](https://gist.github.com/novel-yet-trivial). The module is included in this package so you don't need to download by yourself. However, You can also download the module from his Github page if you want. [Download VerticalScolledFrame](https://gist.github.com/novel-yet-trivial/3eddfce704db3082e38c84664fc1fdf8)
 The required modules:
 - requests
 - sys
