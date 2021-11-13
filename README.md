@@ -31,7 +31,7 @@ The figure below shows the overview of the system design.
 
 ### Prerequisites
 
-The required module:
+The required modules:
 - requests
 - sys
 - os
@@ -41,7 +41,8 @@ The required module:
 - tkinter
 - uuid
 
-The project are breaks into parts and each part handle a process. The parts includes:
+The project are breaks into parts and each part handle a process. All the parts above are include in the package. Just put all of them in a same folder.
+The parts includes:
 - ISAPRS.py (main)
 - firewallCheck.py
 - local_user_password_check.py
